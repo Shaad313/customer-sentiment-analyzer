@@ -1,0 +1,11 @@
+.venv/
+.uv-cache/
+.uv-python/
+.nltk_data/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit.*.log
+models/*.pkl
+/data/raw/
+/data/reviews.csv
