@@ -1,0 +1,31 @@
+text,sentiment
+"Excellent quality and fast delivery, I love this product",positive
+"Works perfectly and feels well made",positive
+"Very happy with this purchase",positive
+"Great value for money and easy to use",positive
+"Customer service solved my issue quickly",positive
+"The product exceeded my expectations",positive
+"Arrived on time and matched the description",positive
+"I would recommend this to a friend",positive
+"Fantastic product, reliable and useful",positive
+"Everything works as advertised",positive
+"Poor quality and stopped working after one day",negative
+"Very disappointed, this was a waste of money",negative
+"The item arrived damaged and unusable",negative
+"Terrible experience and unhelpful customer service",negative
+"Does not work as described",negative
+"Cheap materials and awful design",negative
+"I regret buying this product",negative
+"Delivery was late and the package was broken",negative
+"It broke immediately and support never replied",negative
+"Would not recommend this to anyone",negative
+"The product is okay and does what it says",neutral
+"Average quality for the price",neutral
+"It arrived yesterday and I have only tried it once",neutral
+"The color is different but the item seems usable",neutral
+"Nothing special, but nothing is wrong with it",neutral
+"It took a week to arrive",neutral
+"The packaging was simple and the item was included",neutral
+"I have mixed feelings about this purchase",neutral
+"The size is as expected and quality is ordinary",neutral
+"It works, although setup took some time",neutral
